@@ -1,6 +1,6 @@
 # Gizmo — Professional Interactive Web Introduction
 
-**Gizmo** is a modern, interactive web experience built with cutting-edge frontend technologies to deliver immersive visuals, smooth animations, and a strong product-oriented narrative.
+This project is an independent **technical case study** and product concept exploring the translation of Gizmo’s mobile-native identity into a modern, interactive web experience built with cutting-edge frontend technologies to deliver immersive visuals, smooth animations, and a strong product-oriented narrative.
 
 This website was independently built by me as a professional showcase for **[atma science company](https://www.linkedin.com/company/atmasciences/)**. It was created on my own initiative and is not affiliated with, commissioned by, or officially endorsed by the company.
 
